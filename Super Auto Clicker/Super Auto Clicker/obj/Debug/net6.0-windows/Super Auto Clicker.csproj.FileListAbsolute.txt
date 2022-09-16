@@ -1,0 +1,17 @@
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\bin\Debug\net6.0-windows\Super Auto Clicker.exe
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\bin\Debug\net6.0-windows\Super Auto Clicker.deps.json
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\bin\Debug\net6.0-windows\Super Auto Clicker.runtimeconfig.json
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\bin\Debug\net6.0-windows\Super Auto Clicker.dll
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\bin\Debug\net6.0-windows\Super Auto Clicker.pdb
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.csproj.AssemblyReference.cache
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super_Auto_Clicker.Form1.resources
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.csproj.GenerateResource.cache
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.AssemblyInfoInputs.cache
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.AssemblyInfo.cs
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.dll
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\refint\Super Auto Clicker.dll
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.pdb
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\Super Auto Clicker.genruntimeconfig.cache
+C:\Users\Tobin\OneDrive\Documents\GitHub\IMS-2-LA_1301\Super Auto Clicker\Super Auto Clicker\obj\Debug\net6.0-windows\ref\Super Auto Clicker.dll
