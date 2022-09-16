@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jurya\\.nuget\\packages\\": {}
+    "C:\\Users\\Tobin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jurya\\Documents\\GitHub\\IMS-2-LA_1301\\Super Auto Clicker\\Super Auto Clicker\\Super Auto Clicker.csproj",
+      "projectUniqueName": "C:\\Users\\Tobin\\OneDrive\\Documents\\GitHub\\IMS-2-LA_1301\\Super Auto Clicker\\Super Auto Clicker\\Super Auto Clicker.csproj",
       "projectName": "Super Auto Clicker",
-      "projectPath": "C:\\Users\\Jurya\\Documents\\GitHub\\IMS-2-LA_1301\\Super Auto Clicker\\Super Auto Clicker\\Super Auto Clicker.csproj",
-      "packagesPath": "C:\\Users\\Jurya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jurya\\Documents\\GitHub\\IMS-2-LA_1301\\Super Auto Clicker\\Super Auto Clicker\\obj\\",
+      "projectPath": "C:\\Users\\Tobin\\OneDrive\\Documents\\GitHub\\IMS-2-LA_1301\\Super Auto Clicker\\Super Auto Clicker\\Super Auto Clicker.csproj",
+      "packagesPath": "C:\\Users\\Tobin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tobin\\OneDrive\\Documents\\GitHub\\IMS-2-LA_1301\\Super Auto Clicker\\Super Auto Clicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jurya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tobin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
