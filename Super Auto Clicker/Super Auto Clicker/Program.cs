@@ -121,7 +121,7 @@ namespace Super_Auto_Clicker
 
 
 
-//Cock
+//My Cock
         }
     }
 }
