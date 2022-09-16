@@ -1,4 +1,5 @@
 using System.Runtime.InteropServices;
+using System.Threading;
 
 namespace Super_Auto_Clicker
 {
@@ -31,6 +32,7 @@ namespace Super_Auto_Clicker
             timer1.Enabled = true;
             if (!stop)
             {
+                Thread.Sleep(1000);
                 timer1.Start();
             }
             if (stop)
