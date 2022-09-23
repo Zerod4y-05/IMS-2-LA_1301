@@ -84,45 +84,150 @@ namespace Super_Auto_Clicker
                         break;
                     case 2:
                         timer1.Start();
+                        timer2.Start();
                         break;
                     case 3:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
                         break;
                     case 4:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
                         break;
                     case 5:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
                         break;
                     case 6:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
                         break;
                     case 7:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
                         break;
                     case 8:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
                         break;
                     case 9:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
                         break;
                     case 10:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
+                        timer10.Start();
                         break;
                     case 11:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
+                        timer10.Start();
+                        timer11.Start();
                         break;
                     case 12:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
+                        timer10.Start();
+                        timer11.Start();
+                        timer12.Start();
                         break;
                     case 13:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
+                        timer10.Start();
+                        timer11.Start();
+                        timer12.Start();
+                        timer13.Start();
                         break;
                     case 14:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
+                        timer10.Start();
+                        timer11.Start();
+                        timer12.Start();
+                        timer13.Start();
+                        timer14.Start();
                         break;
                     case 15:
                         timer1.Start();
+                        timer2.Start();
+                        timer3.Start();
+                        timer4.Start();
+                        timer5.Start();
+                        timer6.Start();
+                        timer7.Start();
+                        timer8.Start();
+                        timer9.Start();
+                        timer10.Start();
+                        timer11.Start();
+                        timer12.Start();
+                        timer13.Start();
+                        timer14.Start();
+                        timer15.Start();
                         break;
                     default:
                         timer1.Start();
