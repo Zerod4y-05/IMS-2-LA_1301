@@ -131,6 +131,62 @@
             this.checkBox1.Text = "Antianticheat Mode";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
+            // timer2
+            // 
+            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
+            // 
+            // timer3
+            // 
+            this.timer3.Tick += new System.EventHandler(this.timer3_Tick);
+            // 
+            // timer4
+            // 
+            this.timer4.Tick += new System.EventHandler(this.timer4_Tick);
+            // 
+            // timer5
+            // 
+            this.timer5.Tick += new System.EventHandler(this.timer5_Tick);
+            // 
+            // timer6
+            // 
+            this.timer6.Tick += new System.EventHandler(this.timer6_Tick);
+            // 
+            // timer7
+            // 
+            this.timer7.Tick += new System.EventHandler(this.timer7_Tick);
+            // 
+            // timer8
+            // 
+            this.timer8.Tick += new System.EventHandler(this.timer8_Tick);
+            // 
+            // timer9
+            // 
+            this.timer9.Tick += new System.EventHandler(this.timer9_Tick);
+            // 
+            // timer10
+            // 
+            this.timer10.Tick += new System.EventHandler(this.timer10_Tick);
+            // 
+            // timer11
+            // 
+            this.timer11.Tick += new System.EventHandler(this.timer11_Tick);
+            // 
+            // timer12
+            // 
+            this.timer12.Tick += new System.EventHandler(this.timer12_Tick);
+            // 
+            // timer13
+            // 
+            this.timer13.Tick += new System.EventHandler(this.timer13_Tick);
+            // 
+            // timer14
+            // 
+            this.timer14.Tick += new System.EventHandler(this.timer14_Tick);
+            // 
+            // timer15
+            // 
+            this.timer15.Tick += new System.EventHandler(this.timer15_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
