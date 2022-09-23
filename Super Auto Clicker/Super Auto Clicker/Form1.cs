@@ -5,6 +5,8 @@ namespace Super_Auto_Clicker
 {
     public partial class Form1 : Form
     {
+        bool _stop = true;
+
         public Form1()
         {
             InitializeComponent();
@@ -23,11 +25,9 @@ namespace Super_Auto_Clicker
             mouse_event((int)(mouseeventflags.LeftDown), p.X, p.Y, 0, 0);
             mouse_event((int)(mouseeventflags.LeftUp), p.X, p.Y, 0, 0);
         }
-        bool stop = true;
 
-        private void button1_Click(object sender, EventArgs e)
+        public void SetTimerInterval()
         {
-            stop = (stop) ? false : true;
             timer1.Interval = (int)numericUpDown1.Value;
             timer1.Enabled = false;
 
@@ -72,9 +72,14 @@ namespace Super_Auto_Clicker
 
             timer15.Interval = (int)numericUpDown1.Value;
             timer15.Enabled = false;
+        }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            _stop = (_stop) ? false : true;
+            SetTimerInterval();
 
-            if (!stop)
+            if (!_stop)
             {
                 Thread.Sleep(1000);
                 switch (numericUpDown2.Value)
@@ -234,7 +239,7 @@ namespace Super_Auto_Clicker
                         break;
                 }
             }
-            if (stop)
+            if (_stop)
             {
                 timer1.Stop();
                 timer2.Stop();
