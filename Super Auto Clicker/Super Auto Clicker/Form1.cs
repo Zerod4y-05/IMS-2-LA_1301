@@ -22,8 +22,19 @@ namespace Super_Auto_Clicker
 
         public void leftclick(Point p)
         {
-            mouse_event((int)(mouseeventflags.LeftDown), p.X, p.Y, 0, 0);
-            mouse_event((int)(mouseeventflags.LeftUp), p.X, p.Y, 0, 0);
+            if (checkBox1.Checked)
+            {
+                Random rd = new Random();
+                Thread.Sleep(rd.Next(0, 10));
+                mouse_event((int)(mouseeventflags.LeftDown), p.X, p.Y, 0, 0);
+                Thread.Sleep(rd.Next(0, 10));
+                mouse_event((int)(mouseeventflags.LeftUp), p.X, p.Y, 0, 0);
+            }
+            else
+            {
+                mouse_event((int)(mouseeventflags.LeftDown), p.X, p.Y, 0, 0);
+                mouse_event((int)(mouseeventflags.LeftUp), p.X, p.Y, 0, 0);
+            }
         }
 
         public void SetTimerInterval()
