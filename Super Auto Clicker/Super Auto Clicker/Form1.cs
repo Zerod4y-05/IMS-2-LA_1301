@@ -29,49 +29,49 @@ namespace Super_Auto_Clicker
         {
             stop = (stop) ? false : true;
             timer1.Interval = (int)numericUpDown1.Value;
-            timer1.Enabled = true;
+            timer1.Enabled = false;
 
             timer2.Interval = (int)numericUpDown1.Value;
-            timer2.Enabled = true;
+            timer2.Enabled = false;
 
             timer3.Interval = (int)numericUpDown1.Value;
-            timer3.Enabled = true;
+            timer3.Enabled = false;
 
             timer4.Interval = (int)numericUpDown1.Value;
-            timer4.Enabled = true;
+            timer4.Enabled = false;
 
             timer5.Interval = (int)numericUpDown1.Value;
-            timer5.Enabled = true;
+            timer5.Enabled = false;
 
             timer6.Interval = (int)numericUpDown1.Value;
-            timer6.Enabled = true;
+            timer6.Enabled = false;
 
             timer7.Interval = (int)numericUpDown1.Value;
-            timer7.Enabled = true;
+            timer7.Enabled = false;
 
             timer8.Interval = (int)numericUpDown1.Value;
-            timer8.Enabled = true;
+            timer8.Enabled = false;
 
             timer9.Interval = (int)numericUpDown1.Value;
-            timer9.Enabled = true;
+            timer9.Enabled = false;
 
             timer10.Interval = (int)numericUpDown1.Value;
-            timer10.Enabled = true;
+            timer10.Enabled = false;
 
             timer11.Interval = (int)numericUpDown1.Value;
-            timer11.Enabled = true;
+            timer11.Enabled = false;
 
             timer12.Interval = (int)numericUpDown1.Value;
-            timer12.Enabled = true;
+            timer12.Enabled = false;
 
             timer13.Interval = (int)numericUpDown1.Value;
-            timer13.Enabled = true;
+            timer13.Enabled = false;
 
             timer14.Interval = (int)numericUpDown1.Value;
-            timer14.Enabled = true;
+            timer14.Enabled = false;
 
             timer15.Interval = (int)numericUpDown1.Value;
-            timer15.Enabled = true;
+            timer15.Enabled = false;
 
 
             if (!stop)
