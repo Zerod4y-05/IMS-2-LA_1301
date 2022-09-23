@@ -35,6 +35,20 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.timer3 = new System.Windows.Forms.Timer(this.components);
+            this.timer4 = new System.Windows.Forms.Timer(this.components);
+            this.timer5 = new System.Windows.Forms.Timer(this.components);
+            this.timer6 = new System.Windows.Forms.Timer(this.components);
+            this.timer7 = new System.Windows.Forms.Timer(this.components);
+            this.timer8 = new System.Windows.Forms.Timer(this.components);
+            this.timer9 = new System.Windows.Forms.Timer(this.components);
+            this.timer10 = new System.Windows.Forms.Timer(this.components);
+            this.timer11 = new System.Windows.Forms.Timer(this.components);
+            this.timer12 = new System.Windows.Forms.Timer(this.components);
+            this.timer13 = new System.Windows.Forms.Timer(this.components);
+            this.timer14 = new System.Windows.Forms.Timer(this.components);
+            this.timer15 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.SuspendLayout();
@@ -144,5 +158,19 @@
         private System.Windows.Forms.Timer timer1;
         private NumericUpDown numericUpDown2;
         private CheckBox checkBox1;
+        private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.Timer timer3;
+        private System.Windows.Forms.Timer timer4;
+        private System.Windows.Forms.Timer timer5;
+        private System.Windows.Forms.Timer timer6;
+        private System.Windows.Forms.Timer timer7;
+        private System.Windows.Forms.Timer timer8;
+        private System.Windows.Forms.Timer timer9;
+        private System.Windows.Forms.Timer timer10;
+        private System.Windows.Forms.Timer timer11;
+        private System.Windows.Forms.Timer timer12;
+        private System.Windows.Forms.Timer timer13;
+        private System.Windows.Forms.Timer timer14;
+        private System.Windows.Forms.Timer timer15;
     }
 }
