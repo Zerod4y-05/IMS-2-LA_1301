@@ -92,7 +92,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(128, 60);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Interval\r\n\r\nAmount of Timers";
+            this.label1.Text = "Intervall\r\n\r\nAmount of Timers";
             // 
             // timer1
             // 

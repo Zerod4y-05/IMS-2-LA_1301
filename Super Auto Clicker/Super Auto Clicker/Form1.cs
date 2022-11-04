@@ -1,5 +1,7 @@
+using Microsoft.VisualBasic.Devices;
 using System.Runtime.InteropServices;
 using System.Threading;
+using System.Windows.Forms;
 
 namespace Super_Auto_Clicker
 {
@@ -11,9 +13,8 @@ namespace Super_Auto_Clicker
         {
             InitializeComponent();
         }
-        [DllImport("user32.dll")]
+        [DllImport("user32.dll")] static extern void mouse_event(int dwFlags, int dx, int dy, int dwdata, int dwextrainfo);
 
-        static extern void mouse_event(int dwFlags, int dx, int dy, int dwdata, int dwextrainfo);
         public enum mouseeventflags
         {
             LeftDown = 2,
@@ -269,6 +270,7 @@ namespace Super_Auto_Clicker
                 timer15.Stop();
             }
         }
+
         private void timer1_Tick(object sender, EventArgs e)
         {
             leftclick(new Point(MousePosition.X, MousePosition.Y));
